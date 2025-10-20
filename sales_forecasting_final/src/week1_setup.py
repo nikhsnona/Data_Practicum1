@@ -53,6 +53,10 @@ This project forecasts sales using the Kaggle dataset
 - reports/        : Outputs, figures, evaluation
 - notebooks/      : Jupyter notebooks for weekly progress
 - src/            : Reusable Python modules (data, features, models, utils)
+- main.py         : Main script orchestrating weekly runs
+- requirements.txt: Dependencies required for the project
+- .gitignore      : Files and folders excluded from Git
+- README.txt      : Project overview and execution guide
 
 ## How to Run
 1. Install requirements: `pip install -r requirements.txt`
