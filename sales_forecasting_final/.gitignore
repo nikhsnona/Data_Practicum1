@@ -1,0 +1,21 @@
+# Ignore data and model artifacts
+data/raw/
+data/processed/
+models/
+reports/
+notebooks/.ipynb_checkpoints/
+*.db
+*.csv
+*.parquet
+*.pkl
+*.json
+*.h5
+*.keras
+*.zip
+*.tar
+*.gz
+*.log
+.DS_Store
+__pycache__/
+venv/
+.env
